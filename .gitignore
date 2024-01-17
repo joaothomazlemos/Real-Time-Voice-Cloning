@@ -15,6 +15,10 @@
 *.toc
 *.wav
 *.sh
+*.venv
+*encoder.pt
+*synthesizer.pt
+*vocoder.pt
 encoder/saved_models/*
 synthesizer/saved_models/*
 vocoder/saved_models/*
