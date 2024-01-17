@@ -1,0 +1,2 @@
+dataset root: D:\train-clean-100
+meant for: <datasets_root>/LibriSpeech/train-clean-100
